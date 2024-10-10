@@ -1,0 +1,36 @@
+body {
+    background: linear-gradient(#c501e2, #01c4e7);
+    margin: 67px;
+}
+
+table {
+    background-color: #4a4eff;
+    border: 1px solid black;
+    margin: 1px 500px 1px 1px;
+}
+
+td {
+    margin: 10px;
+    border-color: #64b7cc;
+    border-collapse: collapse;
+    background-color: white;
+    text-align: center;
+    font-family: 'Helvetica', sans-serif;
+}
+
+.x{
+    background-color: #6c90fc;
+}
+
+.y{
+    background-color: #81c9fa;
+}
+
+.listas {
+    height: 100%;
+    width: 300px;
+    top: 50px;
+    left: 0;
+    margin: 0px 1000px;
+    position: fixed;
+}
